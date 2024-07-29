@@ -1,6 +1,6 @@
-"Petzel64" aka "P64" 
+Sup, I'm p3tzel.
 
-@ Discord = Petzel64#3388
+# @ Discord = p3tzel
 ╔════════════════╗
 ║- Monke         ║
 ║- Memes         ║
@@ -8,12 +8,14 @@
 ║- Memes         ║
 ╚════════════════╝
 
-@ Github = Petzel64 = github.com/Petzel64
+# @ [Github](https://github.com/p3tzel)
+```
 ╔═══════════════════════╗
 ║    Nothing so far.    ║
 ╚═══════════════════════╝
-
-@ Steam = Petzel64 = steamcommunity.com/id/Petzel64/
+```
+# @ [Steam](https://steamcommunity.com/id/p3tzel)
+```
 ╔═══╦════════════════╗
 ║Pfp║ Bruh.          ║
 ╠═══╝                ║
@@ -21,25 +23,18 @@
 ║No Joke  ^^^^       ║
 ║Runescape|*Too Much ║
 ╚════════════════════╝
-
-
-@ Twitter = @64Petzel = twitter.com/64petzel
-╔════════════════╗
-║- Garbage       ║
-║- Memes         ║
-║- News(Bad)     ║
-║- More Garbage  ║
-╚════════════════╝
-
-@ Twitch = Petzel_64 = twitch.tv/petzel_64
+```
+# @ [Twitch](https://www.twitch.tv/p3tzel)
+```
 ╔═══╦════════╗
 ║Sub║ Fun    ║
 ╠═══╝  Game  ║
 ╠══════╗  ╔══╣
 ║ʕ-ᴥ-ʔ ║  ║Ha║
 ╚══════╩══╩══╝
-
-@ Youtube = Petzel 64 = No URL/Too long.
+```
+# @ [Youtube](https://www.youtube.com/@p3tzel)
+```
 ╔══════════════╗
 ║   Fun        ║
 ║     Game     ║
@@ -50,5 +45,5 @@
 ║Dumb Vid │[:C]║
 ║I'm jk.  │[:D]║
 ╚═════════╧════╝
-
+```
 *No such thing as "too much runescape".
