@@ -1,20 +1,21 @@
 Sup, I'm p3tzel.
 
-# @ Discord = p3tzel
+### @ Discord = p3tzel
+```
 ╔════════════════╗
 ║- Monke         ║
 ║- Memes         ║
 ║- Monke         ║
 ║- Memes         ║
 ╚════════════════╝
-
-# @ [Github](https://github.com/p3tzel)
+```
+### @ [Github](https://github.com/p3tzel)
 ```
 ╔═══════════════════════╗
 ║    Nothing so far.    ║
 ╚═══════════════════════╝
 ```
-# @ [Steam](https://steamcommunity.com/id/p3tzel)
+### @ [Steam](https://steamcommunity.com/id/p3tzel)
 ```
 ╔═══╦════════════════╗
 ║Pfp║ Bruh.          ║
@@ -24,7 +25,7 @@ Sup, I'm p3tzel.
 ║Runescape|*Too Much ║
 ╚════════════════════╝
 ```
-# @ [Twitch](https://www.twitch.tv/p3tzel)
+### @ [Twitch](https://www.twitch.tv/p3tzel)
 ```
 ╔═══╦════════╗
 ║Sub║ Fun    ║
@@ -33,7 +34,7 @@ Sup, I'm p3tzel.
 ║ʕ-ᴥ-ʔ ║  ║Ha║
 ╚══════╩══╩══╝
 ```
-# @ [Youtube](https://www.youtube.com/@p3tzel)
+### @ [Youtube](https://www.youtube.com/@p3tzel)
 ```
 ╔══════════════╗
 ║   Fun        ║
